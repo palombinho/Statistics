@@ -1,0 +1,17 @@
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\bin\Debug\net6.0-windows\Homework_1_C_Sharp.exe
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\bin\Debug\net6.0-windows\Homework_1_C_Sharp.deps.json
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\bin\Debug\net6.0-windows\Homework_1_C_Sharp.runtimeconfig.json
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\bin\Debug\net6.0-windows\Homework_1_C_Sharp.dll
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\bin\Debug\net6.0-windows\Homework_1_C_Sharp.pdb
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\obj\Debug\net6.0-windows\Homework_1_C_Sharp.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\obj\Debug\net6.0-windows\Homework_1_C_Sharp.Form1.resources
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\obj\Debug\net6.0-windows\Homework_1_C_Sharp.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\obj\Debug\net6.0-windows\Homework_1_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\obj\Debug\net6.0-windows\Homework_1_C_Sharp.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\obj\Debug\net6.0-windows\Homework_1_C_Sharp.AssemblyInfo.cs
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\obj\Debug\net6.0-windows\Homework_1_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\obj\Debug\net6.0-windows\Homework_1_C_Sharp.dll
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\obj\Debug\net6.0-windows\refint\Homework_1_C_Sharp.dll
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\obj\Debug\net6.0-windows\Homework_1_C_Sharp.pdb
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\obj\Debug\net6.0-windows\Homework_1_C_Sharp.genruntimeconfig.cache
+C:\Users\franc\Desktop\Homework_1_C_Sharp\Homework_1_C_Sharp\obj\Debug\net6.0-windows\ref\Homework_1_C_Sharp.dll
