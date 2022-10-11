@@ -86,7 +86,7 @@ namespace Ex_2_and_3
         private void button4_Click(object sender, EventArgs e)
         {
             this.richTextBox2.AppendText("Calculating the univariate distribution of the students' eye color: \n");
-            using (TextFieldParser parser = new TextFieldParser("C:/Users/franc/Desktop/Statistics_students_dataset.csv"))
+            using (TextFieldParser parser = new TextFieldParser("C:/Users/franc/Desktop/Statistics/Homework_2/Statistics_students_dataset.csv"))
             {
                 parser.TextFieldType = FieldType.Delimited;
                 parser.SetDelimiters(",");
