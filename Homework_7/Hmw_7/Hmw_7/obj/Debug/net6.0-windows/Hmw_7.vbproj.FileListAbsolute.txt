@@ -1,0 +1,17 @@
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\bin\Debug\net6.0-windows\Hmw_7.exe
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\bin\Debug\net6.0-windows\Hmw_7.deps.json
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\bin\Debug\net6.0-windows\Hmw_7.runtimeconfig.json
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\bin\Debug\net6.0-windows\Hmw_7.dll
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\bin\Debug\net6.0-windows\Hmw_7.pdb
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\obj\Debug\net6.0-windows\Hmw_7.vbproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\obj\Debug\net6.0-windows\Hmw_7.Form1.resources
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\obj\Debug\net6.0-windows\Hmw_7.vbproj.GenerateResource.cache
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\obj\Debug\net6.0-windows\Hmw_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\obj\Debug\net6.0-windows\Hmw_7.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\obj\Debug\net6.0-windows\Hmw_7.AssemblyInfo.vb
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\obj\Debug\net6.0-windows\Hmw_7.vbproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\obj\Debug\net6.0-windows\Hmw_7.dll
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\obj\Debug\net6.0-windows\refint\Hmw_7.dll
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\obj\Debug\net6.0-windows\Hmw_7.pdb
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\obj\Debug\net6.0-windows\Hmw_7.genruntimeconfig.cache
+C:\Users\franc\Desktop\Hmw_7\Hmw_7\obj\Debug\net6.0-windows\ref\Hmw_7.dll
